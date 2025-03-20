@@ -17,7 +17,7 @@ form.addEventListener("submit",searchforlocation);
 
 
 let target = 'Mumbai'
-let apikey = 'e130bec600ab45d6b1452208251903'
+let apikey = 'your_api_key' //put your api key to use it
 
 const fetchResults = async (targetLocation) => {
 
